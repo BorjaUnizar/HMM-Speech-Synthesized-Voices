@@ -1,4 +1,4 @@
-This folder contains examples of a Mono voice model. This model is created only using audio files from one single user, with the codename bn.
+This folder contains examples of a Mono voice model. This model is created using audio files from one single user, with the codename bn.
 The exmaples witch contain the word "in" in the filenames come from phrases that were used during the training of the voice model, the ones that contain the word "out" not.
 
 
