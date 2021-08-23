@@ -1,5 +1,4 @@
-This folder contains examples of two Averages voice models, one Female and another Male. These models were created using
-thousands of audio files of more than 40 users combined.
+This folder contains examples of two Averages voice models, one Female and another Male. These models were created using thousands of audio files of more than 40 users combined.
 Following the rules of the Mono voice model folder, the exmaples witch contain the word "in" in the filenames come from phrases that were used during the training of the voice model, the ones that contain the word "out" not.
 
 Esta carpeta contiene ejemplos de dos modelos de voz Promedio, uno Femenino y otro Masculino. Estos modelos se han creado utilizando miles de ficheros de audio de hasta 40 usuarios diferentes.
